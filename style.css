@@ -1,10 +1,15 @@
-.cabeçalho_menu-hamburguer {
-   width: 24px;
-   height: 24px;
-   background-image: url("../img/Menu.svg");
-   display: inline-block;
+STYLE.CSS
+
+@import url("styles/header.css");
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
 }
 
-.cabeçalho {
-   background-color: var(--branco);
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+h1 {
+    background-color: white;
 }
