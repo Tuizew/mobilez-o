@@ -1,8 +1,11 @@
 @import url("styles/header.css");
 
 :root {
-    --cor-de-fundo: #EBECEE;
-    --branco: #FFFFFF;
+    --cor-de-fundo: #ebecee;
+    --branco: #ffffff;
+    --laranja: #eb9b00;
+  }
+  F;
 }
 
 body {
@@ -13,9 +16,3 @@ h1 {
     background-color: white;
 }
 
-:root {
-    --cor-de-fundo: #ebecee;
-    --branco: #ffffff;
-    --laranja: #eb9b00;
-  }
-  
