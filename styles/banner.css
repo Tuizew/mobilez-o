@@ -1,6 +1,5 @@
 @import url("style/header.css");
-@import url("style/banner.css");
-.banner {
+ .banner{
   background: var(--azul-degrade);
   color: var(--branco);
   text-align: center;
