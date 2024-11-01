@@ -1,0 +1,11 @@
+.topicos   {
+
+background color var(--azul-degrade);
+
+ text align: center;
+ 
+}
+ 
+.topicos__titulo{
+    color var (--branco);
+}
